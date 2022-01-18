@@ -145,7 +145,7 @@ body{
 
 
 .header-logo-login-img{
-    background-image: url(/img/decoration/Vector1.png);
+    background-image: url(img/decoration/Vector1.png);
     width: 21px;
     height: 12px;
     margin-right: 7px;
@@ -310,7 +310,7 @@ body{
 .specialoff-right{
     width: 573px;
     height: 540px;
-    background-image: url(/img/hero/Rectangle3.png);
+    background-image: url(img/hero/Rectangle3.png);
     border: 15px;
     margin-left: 0px;
     position: relative;
